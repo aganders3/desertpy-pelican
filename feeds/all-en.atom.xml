@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.github.io/" rel="alternate"></link><link href="http://desertpy.github.io/feeds/all-en.atom.xml" rel="self"></link><id>http://desertpy.github.io/</id><updated>2013-04-08T10:20:00+02:00</updated><entry><title>Test Content</title><link href="http://desertpy.github.io/test-post.html" rel="alternate"></link><updated>2013-04-08T10:20:00+02:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.github.io,2013-04-08:test-post.html</id><summary type="html">&lt;p&gt;Here is some restructured text.&lt;/p&gt;
+</summary><category term="test"></category></entry></feed>
