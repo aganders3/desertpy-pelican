@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.github.io/" rel="alternate"></link><link href="http://desertpy.github.io/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.github.io/</id><updated>2013-04-13T10:20:00-07:00</updated><entry><title>First DesertPy Post</title><link href="http://desertpy.github.io/first-post.html" rel="alternate"></link><updated>2013-04-13T10:20:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.github.io,2013-04-13:first-post.html</id><summary type="html">&lt;p&gt;Welcome to the DesertPy website.  This is the online home of Phoenix area Python users.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.github.io/" rel="alternate"></link><link href="http://desertpy.github.io/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.github.io/</id><updated>2013-05-04T10:20:00-07:00</updated><entry><title>DesertPy - The Phoenix Area Python User Community</title><link href="http://desertpy.github.io/desertpy-python-community.html" rel="alternate"></link><updated>2013-05-04T10:20:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.github.io,2013-05-04:desertpy-python-community.html</id><summary type="html">&lt;p&gt;Welcome to the DesertPy website.  This is the online home of Phoenix area
+Python users.  In an effort to bring together Phoenix area Pythonistas the
+group maintains several online resources including the &lt;a class="reference external" href="http://www.meetup.com/Phoenix-Python-Meetup-Group/"&gt;DesertPy Meetup Group&lt;/a&gt;, &lt;a class="reference external" href="https://twitter.com/desertpy"&gt;&amp;#64;desertpy on twitter&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/desertpy"&gt;DesertPy on Github&lt;/a&gt;, the &lt;a class="reference external" href="https://plus.google.com/communities/103511724147602323431"&gt;DesertPy Google+ Community&lt;/a&gt;, and a &lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/desertpy"&gt;Google
+groups mail list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For now, the DesertPy Github group contains the source for this website,
+sources for some of the presentations given at group meetings, as well as
+providing hosting for both the statically generated website and presentations
+using &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you're in Phoenix, or visit Phoenix, and interested in Python, come check us
+out!&lt;/p&gt;
 </summary><category term="misc"></category></entry></feed>
