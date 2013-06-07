@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2013-05-13T18:47:00-07:00</updated><entry><title>May 2013 Drinkup</title><link href="http://desertpy.com/posts/2013/May/13/may-2013-drinkup/" rel="alternate"></link><updated>2013-05-13T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-05-13:posts/2013/May/13/may-2013-drinkup/</id><summary type="html">&lt;p&gt;Let's meet up at Boulders on Broadway on Wednesday, May 22, 2013 at 6:30PM
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2013-06-07T06:47:00-07:00</updated><entry><title>June 2013 Meeting</title><link href="http://desertpy.com/posts/2013/Jun/07/june-2013-meeting/" rel="alternate"></link><updated>2013-06-07T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-06-07:posts/2013/Jun/07/june-2013-meeting/</id><summary type="html">&lt;p&gt;Time for this month's meeting is approaching quickly, here are the details:&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;When&lt;/dt&gt;
+&lt;dd&gt;Wednesday &lt;strong&gt;June 26th, 2013&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;Where&lt;/dt&gt;
+&lt;dd&gt;Gangplank Chandler - &lt;a class="reference external" href="https://www.google.com/maps?q=260+S+Arizona+Ave,+Chandler,+AZ+85225,+USA&amp;amp;hl=en&amp;amp;ll=33.299758,-111.841679&amp;amp;spn=0.018383,0.012252&amp;amp;sll=33.299774,-111.841663&amp;amp;sspn=0.018383,0.012252&amp;amp;hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&amp;amp;t=m&amp;amp;z=16"&gt;260s Arizona Ave, Chandler, AZ 85225&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;What&lt;/dt&gt;
+&lt;dd&gt;Python Pandas (Austin Godber), and anything anyone else comes prepared with.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Feel free to RSVP on the &lt;a class="reference external" href="http://www.meetup.com/Phoenix-Python-Meetup-Group/events/121598992/"&gt;meetup site&lt;/a&gt; or
+fork this repo and add yourself to the RSVP list below and send a pull
+request.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;strong&gt;RSVPs on GitHub - 1 RSVP&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="meeting"></category><category term="pandas"></category></entry><entry><title>May 2013 Drinkup</title><link href="http://desertpy.com/posts/2013/May/13/may-2013-drinkup/" rel="alternate"></link><updated>2013-05-13T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-05-13:posts/2013/May/13/may-2013-drinkup/</id><summary type="html">&lt;p&gt;Let's meet up at Boulders on Broadway on Wednesday, May 22, 2013 at 6:30PM
 for some food and drinks!&lt;/p&gt;
 &lt;iframe width="580" height="480" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
