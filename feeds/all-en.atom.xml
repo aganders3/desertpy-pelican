@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all-en.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2013-12-03T09:47:00-07:00</updated><entry><title>December 2013 Meeting - Salt Stack</title><link href="http://desertpy.com//posts/2013/Dec/03/dec-2013-meeting/" rel="alternate"></link><updated>2013-12-03T09:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-12-03:/posts/2013/Dec/03/dec-2013-meeting/</id><summary type="html">&lt;p&gt;If you aren't too busy covering your house with fake reindeer come check out
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all-en.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2013-12-03T09:47:00-07:00</updated><entry><title>December 2013 Meeting - Salt Stack</title><link href="http://desertpy.com//posts/2013/Dec/03/dec-2013-meeting/" rel="alternate"></link><updated>2013-12-03T09:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-12-03:/posts/2013/Dec/03/dec-2013-meeting/</id><summary type="html">&lt;p&gt;If you aren't too busy covering your house with fake reindeer, come check out
 the DesertPy meeting this month.  Details below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
@@ -8,7 +8,9 @@ the DesertPy meeting this month.  Details below!&lt;/p&gt;
 &lt;dd&gt;Gangplank Chandler - &lt;a class="reference external" href="https://www.google.com/maps?q=260+S+Arizona+Ave,+Chandler,+AZ+85225,+USA&amp;amp;hl=en&amp;amp;ll=33.299758,-111.841679&amp;amp;spn=0.018383,0.012252&amp;amp;sll=33.299774,-111.841663&amp;amp;sspn=0.018383,0.012252&amp;amp;hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&amp;amp;t=m&amp;amp;z=16"&gt;260s Arizona Ave, Chandler, AZ 85225&lt;/a&gt;&lt;/dd&gt;
 &lt;dt&gt;What&lt;/dt&gt;
 &lt;dd&gt;Intro to &lt;a class="reference external" href="http://www.saltstack.com/community/"&gt;Salt Stack&lt;/a&gt;, configuration
-management is easier than you think.&lt;/dd&gt;
+management is easier than you think.  DesertPy member,
+&lt;a class="reference external" href="http://resume.github.io/?gravyboat"&gt;Forrest&lt;/a&gt;, will talk about the Python
+based configuration management system that has Miley Cyrus all worked up.&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;p&gt;Feel free to RSVP on the &lt;a class="reference external" href="http://www.meetup.com/Phoenix-Python-Meetup-Group/events/143637932/"&gt;meetup site&lt;/a&gt; or
 fork this repo and add yourself to the RSVP list below and send a pull
