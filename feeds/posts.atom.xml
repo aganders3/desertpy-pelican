@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/posts.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-04-20T18:00:00-07:00</updated><entry><title>April 2014 Meeting - Python 3</title><link href="http://desertpy.com/posts/2014/Apr/20/april-2014-meeting/" rel="alternate"></link><updated>2014-04-20T18:00:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-04-20:posts/2014/Apr/20/april-2014-meeting/</id><summary type="html">&lt;p&gt;Sorry for the short notice everyone, but this month's DesertPy meeting is this
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/posts.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-04-28T20:47:00-07:00</updated><entry><title>Job - Temporary Software Development Engineer - Visiongate</title><link href="http://desertpy.com/posts/2014/Apr/28/job-visiongate-april-2014/" rel="alternate"></link><updated>2014-04-28T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-04-28:posts/2014/Apr/28/job-visiongate-april-2014/</id><summary type="html">&lt;div class="section" id="requisition-for-employment"&gt;
+&lt;h2&gt;Requisition for Employment&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Temporary Software Development Engineer&lt;/div&gt;
+&lt;div class="line"&gt;VisionGate Corporation&lt;/div&gt;
+&lt;div class="line"&gt;275 N. Gateway Dr. Phoenix, AZ 85034&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="company-profile"&gt;
+&lt;h2&gt;Company Profile&lt;/h2&gt;
+&lt;p&gt;VisionGate produces the Cell-CT™, the world’s first 3D cellular imaging
+device based upon optical projection tomography, which renders cells with
+sub-micron, isometric resolution. Based on 3D images of cells from sputum,
+VisonGate aims to improve patient health with the world’s first, non-invasive,
+diagnostic test for early lung cancer detection: LuCED™. VisionGate is
+expanding to carry the development and commercialization of its products
+forward.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="position-summary"&gt;
+&lt;h2&gt;Position Summary&lt;/h2&gt;
+&lt;p&gt;VisionGate is currently commercializing its LuCED test for early detection of
+lung cancer. Development of other tests based on the Cell-CT are being
+considered or are in progress. To facilitate commercialization of our tests, we
+seek to add a temporary staff member who will develop software for process flow
+by assimilating data from various lab stations and from multiple Cell-CT™ to
+create status and final specimen reports. The role will be full-time from late
+April until July or August.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="roles-and-responsibilities"&gt;
+&lt;h2&gt;Roles and Responsibilities&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Design and develop database to store data from various lab stations&lt;/li&gt;
+&lt;li&gt;Design front-end for inputting data into the database from either lab-stations, Cell-CT™ or Surveyor output&lt;/li&gt;
+&lt;li&gt;Design front-end to query database for specimen processing status&lt;/li&gt;
+&lt;li&gt;Implement final test report printing.&lt;/li&gt;
+&lt;li&gt;Aid in writing SOPs and other product documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="training-and-experience"&gt;
+&lt;h2&gt;Training and Experience&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;BS or MS in computer science or electrical engineering.&lt;/li&gt;
+&lt;li&gt;1-2 years experience with Python, JavaScript or C++&lt;/li&gt;
+&lt;li&gt;1-2 years experience with web-based technologies like HTML, AJAX and CSS.&lt;/li&gt;
+&lt;li&gt;1-2 years experience with Database systems desired, PostgreSQL preferred.&lt;/li&gt;
+&lt;li&gt;Familiarity with laboratory information systems (HL7) desired.&lt;/li&gt;
+&lt;li&gt;Excellent written and oral communications skills.&lt;/li&gt;
+&lt;li&gt;Strong team and interpersonal skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To apply contact Michael Meyer, &lt;a class="reference external" href="mailto:meyer&amp;#64;visiongate3d.com"&gt;meyer&amp;#64;visiongate3d.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="jobs"></category></entry><entry><title>April 2014 Meeting - Python 3</title><link href="http://desertpy.com/posts/2014/Apr/20/april-2014-meeting/" rel="alternate"></link><updated>2014-04-20T18:00:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-04-20:posts/2014/Apr/20/april-2014-meeting/</id><summary type="html">&lt;p&gt;Sorry for the short notice everyone, but this month's DesertPy meeting is this
 week, Wednesday, April 23rd in the SimplyHired offices at Gangplank in Downtown
 Chandler.  Same time as usual, 6:30PM.  We will have Jerry talking about his
 experiences with &lt;a class="reference external" href="http://www.getpython3.com/"&gt;Python 3&lt;/a&gt;.  And we will also be
