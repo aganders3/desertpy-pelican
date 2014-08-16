@@ -6,9 +6,9 @@
 &lt;dt&gt;Where&lt;/dt&gt;
 &lt;dd&gt;Gangplank Chandler - &lt;a class="reference external" href="https://www.google.com/maps?q=260+S+Arizona+Ave,+Chandler,+AZ+85225,+USA&amp;amp;hl=en&amp;amp;ll=33.299758,-111.841679&amp;amp;spn=0.018383,0.012252&amp;amp;sll=33.299774,-111.841663&amp;amp;sspn=0.018383,0.012252&amp;amp;hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&amp;amp;t=m&amp;amp;z=16"&gt;260s Arizona Ave, Chandler, AZ 85225&lt;/a&gt;&lt;/dd&gt;
 &lt;dt&gt;What&lt;/dt&gt;
-&lt;dd&gt;&lt;cite&gt;Exploring Numpy&lt;/cite&gt; - Austin will introduce NumPy, the Python numerical array
-library that sits at the heart of most of Python's numerical and scientific
-tools.&lt;/dd&gt;
+&lt;dd&gt;&lt;cite&gt;Exploring Numpy&lt;/cite&gt; - Austin will introduce &lt;a class="reference external" href="http://www.numpy.org/"&gt;NumPy&lt;/a&gt;,
+the Python numerical array library that sits at the heart of most of
+Python's numerical and scientific tools.&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;p&gt;Feel free to RSVP on the &lt;a class="reference external" href="http://www.meetup.com/Phoenix-Python-Meetup-Group/events/198921882/"&gt;meetup site&lt;/a&gt; or
 fork this repo and add yourself to the RSVP list below and send a pull
