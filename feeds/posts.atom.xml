@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/posts.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-09-02T20:47:00-07:00</updated><entry><title>Job - Web Administrator</title><link href="http://desertpy.com/posts/2014/Sep/02/job-asu-cronkite-sept-2014/" rel="alternate"></link><updated>2014-09-02T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-09-02:posts/2014/Sep/02/job-asu-cronkite-sept-2014/</id><summary type="html">&lt;div class="section" id="description"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/posts.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-10-04T06:47:00-07:00</updated><entry><title>September 2014 Meeting Follow Up</title><link href="http://desertpy.com/posts/2014/Oct/04/sept-2014-meeting/" rel="alternate"></link><updated>2014-10-04T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-10-04:posts/2014/Oct/04/sept-2014-meeting/</id><summary type="html">&lt;p&gt;We had another great meeting in September that I didn't have a chance to
+announce on this website.  Dr. Sarah Braden gave an introductory talk on
+&lt;a class="reference external" href="http://presentations.desertpy.com/machine_learning_braden/machine_learning_braden.slides.html"&gt;Machine Learning with Python&lt;/a&gt;.
+We had a great turn out which included at least a half dozen new members.
+Erik shared a relevant link to the
+&lt;a class="reference external" href="http://peekaboo-vision.blogspot.ca/2013/01/machine-learning-cheat-sheet-for-scikit.html"&gt;scikit-learn algorithm cheat-sheet&lt;/a&gt;
+on the &lt;a class="reference external" href="http://www.reddit.com/r/desertpy"&gt;DesertPy Sub-Reddit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also, I'd like to thank &lt;a class="reference external" href="http://www.isostech.com/"&gt;Isos Technology&lt;/a&gt; for
+being such a generous host again.&lt;/p&gt;
+&lt;p&gt;Refresh this webpage constantly for news of the upcoming October meeting, which
+should be on October 22nd in Chandler.  Don't miss it!&lt;/p&gt;
+</summary><category term="meeting"></category><category term="machinelearning"></category></entry><entry><title>Job - Web Administrator</title><link href="http://desertpy.com/posts/2014/Sep/02/job-asu-cronkite-sept-2014/" rel="alternate"></link><updated>2014-09-02T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-09-02:posts/2014/Sep/02/job-asu-cronkite-sept-2014/</id><summary type="html">&lt;div class="section" id="description"&gt;
 &lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;The Walter Cronkite School of Journalism and Mass Communication’s New Media
 Innovation Lab seeks an experienced Python developer to work with students to
