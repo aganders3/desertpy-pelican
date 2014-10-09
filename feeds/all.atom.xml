@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-10-04T06:47:00-07:00</updated><entry><title>September 2014 Meeting Follow Up</title><link href="http://desertpy.com/posts/2014/Oct/04/sept-2014-meeting/" rel="alternate"></link><updated>2014-10-04T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-10-04:posts/2014/Oct/04/sept-2014-meeting/</id><summary type="html">&lt;p&gt;We had another great meeting in September that I didn't have a chance to
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-10-09T06:47:00-07:00</updated><entry><title>October 2014 Meeting - PyPy</title><link href="http://desertpy.com/posts/2014/Oct/09/oct-2014-meeting/" rel="alternate"></link><updated>2014-10-09T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-10-09:posts/2014/Oct/09/oct-2014-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+&lt;dt&gt;When&lt;/dt&gt;
+&lt;dd&gt;Wednesday &lt;strong&gt;October 22nd, 2014&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
+&lt;dt&gt;Where&lt;/dt&gt;
+&lt;dd&gt;Gangplank Chandler - &lt;a class="reference external" href="https://www.google.com/maps?q=260+S+Arizona+Ave,+Chandler,+AZ+85225,+USA&amp;amp;hl=en&amp;amp;ll=33.299758,-111.841679&amp;amp;spn=0.018383,0.012252&amp;amp;sll=33.299774,-111.841663&amp;amp;sspn=0.018383,0.012252&amp;amp;hnear=260+S+Arizona+Ave,+Chandler,+Maricopa,+Arizona+85225&amp;amp;t=m&amp;amp;z=16"&gt;260s Arizona Ave, Chandler, AZ 85225&lt;/a&gt;
+We may be in Gangplank or in the HiringSolved space next door.  Ask around.&lt;/dd&gt;
+&lt;dt&gt;What&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first"&gt;Tim will lead a brief discussion of PyPy, a Python interpreter implemented in
+Python, followed by a longer discussion of the RPython toolchain which makes
+this implementation not only possible, but faster than the standard C-Python
+interpreter. The discussion of RPython will be illustrated using a simple
+interpreter implemented in Python, which is then translated to native code
+using the RPython toolchain.&lt;/p&gt;
+&lt;p class="last"&gt;Also, there will be Mandelbrot sets.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Who&lt;/dt&gt;
+&lt;dd&gt;Tim has been using Python since way back at Python 0.9.3. He uses Python
+primarily to process and display numerical data and is very interested in
+ways of coaxing as much performance as possible from Python and its various
+numerical extensions.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Feel free to RSVP on the &lt;a class="reference external" href="http://www.meetup.com/Phoenix-Python-Meetup-Group/events/212334612/"&gt;meetup site&lt;/a&gt; or
+heck, fork this repo and add yourself to the RSVP list below and send a pull
+request:&lt;/p&gt;
+&lt;p&gt;RSVPs on GitHub - 1 RSVP&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="meeting"></category><category term="pypy"></category></entry><entry><title>September 2014 Meeting Follow Up</title><link href="http://desertpy.com/posts/2014/Oct/04/sept-2014-meeting/" rel="alternate"></link><updated>2014-10-04T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-10-04:posts/2014/Oct/04/sept-2014-meeting/</id><summary type="html">&lt;p&gt;We had another great meeting in September that I didn't have a chance to
 announce on this website.  Dr. Sarah Braden gave an introductory talk on
 &lt;a class="reference external" href="http://presentations.desertpy.com/machine_learning_braden/machine_learning_braden.slides.html"&gt;Machine Learning with Python&lt;/a&gt;.
 We had a great turn out which included at least a half dozen new members.
