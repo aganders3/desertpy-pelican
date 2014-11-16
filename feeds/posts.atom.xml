@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/posts.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-11-08T06:47:00-07:00</updated><entry><title>November 2014 Meeting - 10 Overlooked Standard Libraries</title><link href="http://desertpy.com/posts/2014/Nov/08/nov-2014-meeting/" rel="alternate"></link><updated>2014-11-08T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-11-08:posts/2014/Nov/08/nov-2014-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/posts.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2014-11-16T18:47:00-07:00</updated><entry><title>PyCon Startup Row Pitch Event at Techweek LA</title><link href="http://desertpy.com/posts/2014/Nov/16/pycon-startup-row/" rel="alternate"></link><updated>2014-11-16T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-11-16:posts/2014/Nov/16/pycon-startup-row/</id><summary type="html">&lt;p&gt;Don Sheu has asked me to share the following information:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Copy to circulate, PyCon Startup Row is offering early-stage
+startups using Python an opportunity to pitch before an audience
+at Techweek LA. Techweek produces events in five US cities, with
+the largest events drawing over 8000 attendees.
+
+November 21st, Techweek LA is turning over the Media Temple
+Stage to PyCon Startup Row to feature startups founded by
+members of the Python community.  Audrey Roy Greenfeld author
+of Two Scoops of Django will be present and is promoting the event
+to the SoCal Python community.
+
+Come pitch to meet investors, possible hires, and connect with
+partners and customers. There is no charge.  I have one remaining
+spot. Please email me directly at don&amp;#64;sheu.com or call me at
+312.880.9389. to discuss your Company.
+
+Warmest wishes,
+
+Don Sheu
+Chair
+PyCon Startup Row
+&lt;/pre&gt;
+&lt;p&gt;This looks like it might be a great opportunity!&lt;/p&gt;
+</summary><category term="startups"></category></entry><entry><title>November 2014 Meeting - 10 Overlooked Standard Libraries</title><link href="http://desertpy.com/posts/2014/Nov/08/nov-2014-meeting/" rel="alternate"></link><updated>2014-11-08T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-11-08:posts/2014/Nov/08/nov-2014-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;November 19th, 2014&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
