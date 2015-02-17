@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2015-02-17T06:47:00-07:00</updated><entry><title>February 2015 Meeting - Battle of the Queues</title><link href="http://desertpy.com/posts/2015/Feb/17/feb-2015-meeting/" rel="alternate"></link><updated>2015-02-17T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2015-02-17:posts/2015/Feb/17/feb-2015-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DesertPy</title><link>http://desertpy.com/</link><description></description><atom:link href="http://desertpy.com/feeds/austin-godber.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 17 Feb 2015 06:47:00 -0700</lastBuildDate><item><title>February 2015 Meeting - Battle of the Queues</title><link>http://desertpy.com/posts/2015/Feb/17/feb-2015-meeting/</link><description>&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;February 25th, 2015&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
@@ -25,7 +25,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category></entry><entry><title>PyCon Startup Row Pitch Event at Techweek LA</title><link href="http://desertpy.com/posts/2014/Nov/16/pycon-startup-row/" rel="alternate"></link><updated>2014-11-16T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-11-16:posts/2014/Nov/16/pycon-startup-row/</id><summary type="html">&lt;p&gt;Don Sheu has asked me to share the following information:&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Tue, 17 Feb 2015 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2015-02-17:posts/2015/Feb/17/feb-2015-meeting/</guid><category>meeting</category></item><item><title>PyCon Startup Row Pitch Event at Techweek LA</title><link>http://desertpy.com/posts/2014/Nov/16/pycon-startup-row/</link><description>&lt;p&gt;Don Sheu has asked me to share the following information:&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 Copy to circulate, PyCon Startup Row is offering early-stage
 startups using Python an opportunity to pitch before an audience
@@ -50,7 +50,7 @@ Chair
 PyCon Startup Row
 &lt;/pre&gt;
 &lt;p&gt;This looks like it might be a great opportunity!&lt;/p&gt;
-</summary><category term="startups"></category></entry><entry><title>November 2014 Meeting - 10 Overlooked Standard Libraries</title><link href="http://desertpy.com/posts/2014/Nov/08/nov-2014-meeting/" rel="alternate"></link><updated>2014-11-08T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-11-08:posts/2014/Nov/08/nov-2014-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 16 Nov 2014 18:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-11-16:posts/2014/Nov/16/pycon-startup-row/</guid><category>startups</category></item><item><title>November 2014 Meeting - 10 Overlooked Standard Libraries</title><link>http://desertpy.com/posts/2014/Nov/08/nov-2014-meeting/</link><description>&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;November 19th, 2014&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
@@ -76,7 +76,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category></entry><entry><title>October 2014 Meeting - PyPy</title><link href="http://desertpy.com/posts/2014/Oct/09/oct-2014-meeting/" rel="alternate"></link><updated>2014-10-09T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-10-09:posts/2014/Oct/09/oct-2014-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sat, 08 Nov 2014 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-11-08:posts/2014/Nov/08/nov-2014-meeting/</guid><category>meeting</category></item><item><title>October 2014 Meeting - PyPy</title><link>http://desertpy.com/posts/2014/Oct/09/oct-2014-meeting/</link><description>&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;October 22nd, 2014&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
@@ -104,7 +104,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="pypy"></category></entry><entry><title>September 2014 Meeting Follow Up</title><link href="http://desertpy.com/posts/2014/Oct/04/sept-2014-meeting/" rel="alternate"></link><updated>2014-10-04T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-10-04:posts/2014/Oct/04/sept-2014-meeting/</id><summary type="html">&lt;p&gt;We had another great meeting in September that I didn't have a chance to
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Thu, 09 Oct 2014 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-10-09:posts/2014/Oct/09/oct-2014-meeting/</guid><category>meeting</category><category>pypy</category></item><item><title>September 2014 Meeting Follow Up</title><link>http://desertpy.com/posts/2014/Oct/04/sept-2014-meeting/</link><description>&lt;p&gt;We had another great meeting in September that I didn't have a chance to
 announce on this website.  Dr. Sarah Braden gave an introductory talk on
 &lt;a class="reference external" href="http://presentations.desertpy.com/machine_learning_braden/machine_learning_braden.slides.html"&gt;Machine Learning with Python&lt;/a&gt;.
 We had a great turn out which included at least a half dozen new members.
@@ -115,7 +115,7 @@ on the &lt;a class="reference external" href="http://www.reddit.com/r/desertpy"&
 being such a generous host again.&lt;/p&gt;
 &lt;p&gt;Refresh this webpage constantly for news of the upcoming October meeting, which
 should be on October 22nd in Chandler.  Don't miss it!&lt;/p&gt;
-</summary><category term="meeting"></category><category term="machinelearning"></category></entry><entry><title>Job - Web Administrator</title><link href="http://desertpy.com/posts/2014/Sep/02/job-asu-cronkite-sept-2014/" rel="alternate"></link><updated>2014-09-02T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-09-02:posts/2014/Sep/02/job-asu-cronkite-sept-2014/</id><summary type="html">&lt;div class="section" id="description"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sat, 04 Oct 2014 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-10-04:posts/2014/Oct/04/sept-2014-meeting/</guid><category>meeting</category><category>machinelearning</category></item><item><title>Job - Web Administrator</title><link>http://desertpy.com/posts/2014/Sep/02/job-asu-cronkite-sept-2014/</link><description>&lt;div class="section" id="description"&gt;
 &lt;h2&gt;Description&lt;/h2&gt;
 &lt;p&gt;The Walter Cronkite School of Journalism and Mass Communication’s New Media
 Innovation Lab seeks an experienced Python developer to work with students to
@@ -124,7 +124,7 @@ develop digital products and services for media and other professional clients.&
 accepted and considered every week until the search is closed.&lt;/p&gt;
 &lt;p&gt;More details here &lt;a class="reference external" href="http://bit.ly/1qx5U8S"&gt;http://bit.ly/1qx5U8S&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="jobs"></category></entry><entry><title>August 2014 Meeting</title><link href="http://desertpy.com/posts/2014/Aug/16/aug-2014-meeting/" rel="alternate"></link><updated>2014-08-16T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-08-16:posts/2014/Aug/16/aug-2014-meeting/</id><summary type="html">&lt;p&gt;August is here, and with it comes another DesertPy meeting.  Details below!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Tue, 02 Sep 2014 20:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-09-02:posts/2014/Sep/02/job-asu-cronkite-sept-2014/</guid><category>jobs</category></item><item><title>August 2014 Meeting</title><link>http://desertpy.com/posts/2014/Aug/16/aug-2014-meeting/</link><description>&lt;p&gt;August is here, and with it comes another DesertPy meeting.  Details below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;August 27th, 2014&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
@@ -143,46 +143,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="numpy"></category></entry><entry><title>Thunderstorm Aftermath</title><link href="http://desertpy.com/posts/2014/Aug/10/jul-2014-recap/" rel="alternate"></link><updated>2014-08-10T23:10:00-07:00</updated><author><name>Erik Stephens</name></author><id>tag:desertpy.com,2014-08-10:posts/2014/Aug/10/jul-2014-recap/</id><summary type="html">&lt;p&gt;This month's meeting format was a series of lightning talks.  We
-restricted the talks to a hard limit of 5 minutes, which was a
-challenge for some of us.  Here is a quick recap with some reference
-links.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;SciPy 2014 Highlights&lt;/p&gt;
-&lt;p&gt;Austin provided some &lt;a class="reference external" href="http://presentations.desertpy.com/thunderstorm-2014/SciPy_2014.slides.html"&gt;highlights from this year's SciPy conference&lt;/a&gt;.
-Lots of exciting developments.  Five minutes didn't do it justice.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Nsq and Python&lt;/p&gt;
-&lt;p&gt;Trevor demoed &lt;a class="reference external" href="https://github.com/wtolson/gnsq/"&gt;gnsq&lt;/a&gt;, a gevent
-based python client for the NSQ distributed messaging platform,
-which was highlighted in this week's &lt;a class="reference external" href="http://pycoders.com/"&gt;PyCoder's Weekly&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;IPython as a command shell&lt;/p&gt;
-&lt;p&gt;Ian combined two of my favorite things: &lt;a class="reference external" href="https://github.com/ianpreston/oh-my-py/"&gt;IPython and command shells&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Exploring Python's Method Resolution Order (MRO)&lt;/p&gt;
-&lt;p&gt;Jason took us from the basics of the MRO to some more complicated
-examples.  He was about to divulge how to hack the MRO at run-time
-before the 5-minute horn stopped him short.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Python logging for web applications&lt;/p&gt;
-&lt;p&gt;I tried my best to walk through my &lt;a class="reference external" href="http://nbviewer.ipython.org/gist/erik-stephens/6918b6c25591d2b4d93f/"&gt;IPython Notebook&lt;/a&gt;
-demonstrating how you can use Python's logging module and
-ElasticSearch &amp;amp; Kibana to instrument &amp;amp; analyze your web
-applications.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Jerry walked us through his MongoDB driven web application that tracks the
-movies and books he and his wife own.  This served as a good example of using
-MongoDB with Python.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Lastly, Jason accepted the challenge of giving an unfinished presentation on
-&lt;a class="reference external" href="http://presentations.desertpy.com/thunderstorm-2014/Decorators.slides.html#/"&gt;Python Deocrators&lt;/a&gt;.
-This presentation was started by Austin and Jason had never seen it before
-and did an exceptional job talking about it sight unseen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;NOTE&lt;/em&gt; Austin added the last two bullet point's here, for completion sake.&lt;/p&gt;
-</summary><category term="meeting"></category></entry><entry><title>DesertPy Thunderstorm - July 2014 Meeting</title><link href="http://desertpy.com/posts/2014/Jul/13/july-2014-meeting/" rel="alternate"></link><updated>2014-07-13T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-07-13:posts/2014/Jul/13/july-2014-meeting/</id><summary type="html">&lt;p&gt;Monsoon season is upon us so join DesertPy this month for a Thunderstorm!  What
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sat, 16 Aug 2014 20:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-08-16:posts/2014/Aug/16/aug-2014-meeting/</guid><category>meeting</category><category>numpy</category></item><item><title>DesertPy Thunderstorm - July 2014 Meeting</title><link>http://desertpy.com/posts/2014/Jul/13/july-2014-meeting/</link><description>&lt;p&gt;Monsoon season is upon us so join DesertPy this month for a Thunderstorm!  What
 is a Thunderstorm you ask?  It's a meeting consisting only of lightning
 talks!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
@@ -223,7 +184,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="testing"></category></entry><entry><title>June 2014 Meeting</title><link href="http://desertpy.com/posts/2014/Jun/10/june-2014-meeting/" rel="alternate"></link><updated>2014-06-10T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-06-10:posts/2014/Jun/10/june-2014-meeting/</id><summary type="html">&lt;p&gt;Meeting time is rolling around again.  For those of you braving the heat in
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 13 Jul 2014 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-07-13:posts/2014/Jul/13/july-2014-meeting/</guid><category>meeting</category><category>testing</category></item><item><title>June 2014 Meeting</title><link>http://desertpy.com/posts/2014/Jun/10/june-2014-meeting/</link><description>&lt;p&gt;Meeting time is rolling around again.  For those of you braving the heat in
 town, join us out at the HiringSolved offices at Gangplank for the June
 DesertPy meeting.&lt;/p&gt;
 &lt;dl class="docutils"&gt;
@@ -243,7 +204,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="testing"></category></entry><entry><title>May 2014 Meeting - Flask</title><link href="http://desertpy.com/posts/2014/May/06/may-2014-meeting/" rel="alternate"></link><updated>2014-05-06T08:00:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-05-06:posts/2014/May/06/may-2014-meeting/</id><summary type="html">&lt;p&gt;Join DesertPy, the Phoenix Area Python User Group, for the May meeting, details
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Tue, 10 Jun 2014 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-06-10:posts/2014/Jun/10/june-2014-meeting/</guid><category>meeting</category><category>testing</category></item><item><title>May 2014 Meeting - Flask</title><link>http://desertpy.com/posts/2014/May/06/may-2014-meeting/</link><description>&lt;p&gt;Join DesertPy, the Phoenix Area Python User Group, for the May meeting, details
 below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
@@ -267,7 +228,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="flask"></category><category term="pep"></category></entry><entry><title>Job - Temporary Software Development Engineer - Visiongate</title><link href="http://desertpy.com/posts/2014/Apr/28/job-visiongate-april-2014/" rel="alternate"></link><updated>2014-04-28T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-04-28:posts/2014/Apr/28/job-visiongate-april-2014/</id><summary type="html">&lt;div class="section" id="requisition-for-employment"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Tue, 06 May 2014 08:00:00 -0700</pubDate><guid>tag:desertpy.com,2014-05-06:posts/2014/May/06/may-2014-meeting/</guid><category>meeting</category><category>flask</category><category>pep</category></item><item><title>Job - Temporary Software Development Engineer - Visiongate</title><link>http://desertpy.com/posts/2014/Apr/28/job-visiongate-april-2014/</link><description>&lt;div class="section" id="requisition-for-employment"&gt;
 &lt;h2&gt;Requisition for Employment&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Temporary Software Development Engineer&lt;/div&gt;
@@ -318,7 +279,7 @@ April until July or August.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;To apply contact Michael Meyer, &lt;a class="reference external" href="mailto:meyer&amp;#64;visiongate3d.com"&gt;meyer&amp;#64;visiongate3d.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="jobs"></category></entry><entry><title>April 2014 Meeting - Python 3</title><link href="http://desertpy.com/posts/2014/Apr/20/april-2014-meeting/" rel="alternate"></link><updated>2014-04-20T18:00:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-04-20:posts/2014/Apr/20/april-2014-meeting/</id><summary type="html">&lt;p&gt;Sorry for the short notice everyone, but this month's DesertPy meeting is this
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Mon, 28 Apr 2014 20:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-04-28:posts/2014/Apr/28/job-visiongate-april-2014/</guid><category>jobs</category></item><item><title>April 2014 Meeting - Python 3</title><link>http://desertpy.com/posts/2014/Apr/20/april-2014-meeting/</link><description>&lt;p&gt;Sorry for the short notice everyone, but this month's DesertPy meeting is this
 week, Wednesday, April 23rd in the SimplyHired offices at Gangplank in Downtown
 Chandler.  Same time as usual, 6:30PM.  We will have Jerry talking about his
 experiences with &lt;a class="reference external" href="http://www.getpython3.com/"&gt;Python 3&lt;/a&gt;.  And we will also be
@@ -334,7 +295,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="python3"></category><category term="pep"></category></entry><entry><title>April 2014 Drinkup</title><link href="http://desertpy.com/posts/2014/Apr/02/april-2014-drinkup/" rel="alternate"></link><updated>2014-04-02T10:00:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-04-02:posts/2014/Apr/02/april-2014-drinkup/</id><summary type="html">&lt;p&gt;DesertPy is meeting up at Boulders on Broadway on Wednesday, April 9th, 2014 at
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 20 Apr 2014 18:00:00 -0700</pubDate><guid>tag:desertpy.com,2014-04-20:posts/2014/Apr/20/april-2014-meeting/</guid><category>meeting</category><category>python3</category><category>pep</category></item><item><title>April 2014 Drinkup</title><link>http://desertpy.com/posts/2014/Apr/02/april-2014-drinkup/</link><description>&lt;p&gt;DesertPy is meeting up at Boulders on Broadway on Wednesday, April 9th, 2014 at
 6:30PM for some food and drinks!&lt;/p&gt;
 &lt;iframe width="580" height="480" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
@@ -357,7 +318,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="social"></category><category term="drinkup"></category></entry><entry><title>Monthly Meetings in 2014</title><link href="http://desertpy.com/posts/2014/Mar/17/monthly-meetings-2014/" rel="alternate"></link><updated>2014-03-17T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-03-17:posts/2014/Mar/17/monthly-meetings-2014/</id><summary type="html">&lt;p&gt;Spring is upon us and change is in the air for DesertPy.  First off, we are
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Wed, 02 Apr 2014 10:00:00 -0700</pubDate><guid>tag:desertpy.com,2014-04-02:posts/2014/Apr/02/april-2014-drinkup/</guid><category>social</category><category>drinkup</category></item><item><title>Monthly Meetings in 2014</title><link>http://desertpy.com/posts/2014/Mar/17/monthly-meetings-2014/</link><description>&lt;p&gt;Spring is upon us and change is in the air for DesertPy.  First off, we are
 going to have monthly presentation based meetings for the rest of this year.
 These meetings will be on the same day of the month as usual, the fourth
 Wednesday.  Tentatively the locations will be alternating between Gangplank in
@@ -379,7 +340,7 @@ that lucky 'someone' could be YOU!  As always we are looking for community
 members to help give presentations, please contact me (Austin Godber,
 &lt;a class="reference external" href="mailto:godber&amp;#64;gmail.com"&gt;godber&amp;#64;gmail.com&lt;/a&gt;) if you are interested in giving a presentation.&lt;/p&gt;
 &lt;p&gt;Looking forward to another great year!&lt;/p&gt;
-</summary><category term="meetings"></category></entry><entry><title>Job - Sr Python Developer - SEO Firm</title><link href="http://desertpy.com/posts/2014/Mar/03/job-seo-firm-march-2014/" rel="alternate"></link><updated>2014-03-03T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-03-03:posts/2014/Mar/03/job-seo-firm-march-2014/</id><summary type="html">&lt;dl class="docutils"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Mon, 17 Mar 2014 18:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-03-17:posts/2014/Mar/17/monthly-meetings-2014/</guid><category>meetings</category></item><item><title>Job - Sr Python Developer - SEO Firm</title><link>http://desertpy.com/posts/2014/Mar/03/job-seo-firm-march-2014/</link><description>&lt;dl class="docutils"&gt;
 &lt;dt&gt;Title&lt;/dt&gt;
 &lt;dd&gt;Sr. Python Developer roles for prestigious Content Management firm (Full Time
 Position-not a contract)&lt;/dd&gt;
@@ -399,7 +360,7 @@ impressive for the right candidate(s).  Multiple roles available&lt;/p&gt;
 &lt;dt&gt;Contact&lt;/dt&gt;
 &lt;dd&gt;Robert Schintler - PROTOCOL Recruiting - 480-544-7961 - &lt;a class="reference external" href="mailto:robert&amp;#64;protocolrecruiting.com"&gt;robert&amp;#64;protocolrecruiting.com&lt;/a&gt;&lt;/dd&gt;
 &lt;/dl&gt;
-</summary><category term="jobs"></category></entry><entry><title>February 2014 Meeting - Image Processing</title><link href="http://desertpy.com/posts/2014/Feb/09/feb-2014-meeting/" rel="alternate"></link><updated>2014-02-09T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-02-09:posts/2014/Feb/09/feb-2014-meeting/</id><summary type="html">&lt;p&gt;If you aren't too busy trying to make up for forgetting Valentines Day for your
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Mon, 03 Mar 2014 20:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-03-03:posts/2014/Mar/03/job-seo-firm-march-2014/</guid><category>jobs</category></item><item><title>February 2014 Meeting - Image Processing</title><link>http://desertpy.com/posts/2014/Feb/09/feb-2014-meeting/</link><description>&lt;p&gt;If you aren't too busy trying to make up for forgetting Valentines Day for your
 special someone, come check out the DesertPy meeting this month.  Details below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
@@ -425,7 +386,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="imageprocessing"></category></entry><entry><title>December 2013 Meeting - Salt Stack</title><link href="http://desertpy.com/posts/2013/Dec/03/dec-2013-meeting/" rel="alternate"></link><updated>2013-12-03T09:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-12-03:posts/2013/Dec/03/dec-2013-meeting/</id><summary type="html">&lt;p&gt;If you aren't too busy covering your house with fake reindeer, come check out
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 09 Feb 2014 20:47:00 -0700</pubDate><guid>tag:desertpy.com,2014-02-09:posts/2014/Feb/09/feb-2014-meeting/</guid><category>meeting</category><category>imageprocessing</category></item><item><title>December 2013 Meeting - Salt Stack</title><link>http://desertpy.com/posts/2013/Dec/03/dec-2013-meeting/</link><description>&lt;p&gt;If you aren't too busy covering your house with fake reindeer, come check out
 the DesertPy meeting this month.  Details below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
@@ -446,7 +407,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="saltstack"></category></entry><entry><title>October 2013 Meeting</title><link href="http://desertpy.com/posts/2013/Oct/08/oct-2013-meeting/" rel="alternate"></link><updated>2013-10-08T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-10-08:posts/2013/Oct/08/oct-2013-meeting/</id><summary type="html">&lt;p&gt;If you aren't too busy covering your house with fake spider webs come check out
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Tue, 03 Dec 2013 09:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-12-03:posts/2013/Dec/03/dec-2013-meeting/</guid><category>meeting</category><category>saltstack</category></item><item><title>October 2013 Meeting</title><link>http://desertpy.com/posts/2013/Oct/08/oct-2013-meeting/</link><description>&lt;p&gt;If you aren't too busy covering your house with fake spider webs come check out
 the DesertPy meeting this month.  Details below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
@@ -475,7 +436,7 @@ request.&lt;/p&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Randy Kaelber - This is by far the nerdiest RSVP I've ever given!&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="networking"></category></entry><entry><title>September 2013 Drinkup</title><link href="http://desertpy.com/posts/2013/Sep/15/sept-2013-drinkup/" rel="alternate"></link><updated>2013-09-15T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-09-15:posts/2013/Sep/15/sept-2013-drinkup/</id><summary type="html">&lt;p&gt;Let's meet up at Boulders on Broadway on Wednesday, September 25, 2013 at
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Tue, 08 Oct 2013 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-10-08:posts/2013/Oct/08/oct-2013-meeting/</guid><category>meeting</category><category>networking</category></item><item><title>September 2013 Drinkup</title><link>http://desertpy.com/posts/2013/Sep/15/sept-2013-drinkup/</link><description>&lt;p&gt;Let's meet up at Boulders on Broadway on Wednesday, September 25, 2013 at
 6:30PM for some food and drinks!&lt;/p&gt;
 &lt;iframe width="580" height="480" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
@@ -497,7 +458,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="social"></category><category term="drinkup"></category></entry><entry><title>August 2013 Meeting</title><link href="http://desertpy.com/posts/2013/Aug/04/aug-2013-meeting/" rel="alternate"></link><updated>2013-08-04T20:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-08-04:posts/2013/Aug/04/aug-2013-meeting/</id><summary type="html">&lt;p&gt;August is here, and with it comes another DesertPy meeting.  Details below!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 15 Sep 2013 18:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-09-15:posts/2013/Sep/15/sept-2013-drinkup/</guid><category>social</category><category>drinkup</category></item><item><title>August 2013 Meeting</title><link>http://desertpy.com/posts/2013/Aug/04/aug-2013-meeting/</link><description>&lt;p&gt;August is here, and with it comes another DesertPy meeting.  Details below!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;August 21st, 2013&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
@@ -524,13 +485,13 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="raspberrypi"></category></entry><entry><title>June 2013 Meeting - Follow Up</title><link href="http://desertpy.com/posts/2013/Jun/30/june-2013-meeting-followup/" rel="alternate"></link><updated>2013-06-30T11:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-06-30:posts/2013/Jun/30/june-2013-meeting-followup/</id><summary type="html">&lt;p&gt;Thanks to everyone who came out to &lt;a class="reference external" href="http://gangplankhq.com/"&gt;Gangplank Chandler&lt;/a&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 04 Aug 2013 20:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-08-04:posts/2013/Aug/04/aug-2013-meeting/</guid><category>meeting</category><category>raspberrypi</category></item><item><title>June 2013 Meeting - Follow Up</title><link>http://desertpy.com/posts/2013/Jun/30/june-2013-meeting-followup/</link><description>&lt;p&gt;Thanks to everyone who came out to &lt;a class="reference external" href="http://gangplankhq.com/"&gt;Gangplank Chandler&lt;/a&gt;
 on Wednesday for the DeserPy meeting.  The &lt;em&gt;Pandas and Friends&lt;/em&gt; slides are
 now available in &lt;a class="reference external" href="http://presentations.desertpy.com/pandas-and-friends-godber/"&gt;HTML&lt;/a&gt;
 and &lt;a class="reference external" href="http://presentations.desertpy.com/pandas-and-friends-godber/pandas-and-friends.pdf"&gt;PDF&lt;/a&gt;
 form.  The &lt;a class="reference external" href="http://desertpy.com/pages/presentations.html"&gt;DesertPy presentations page&lt;/a&gt;
 has been updated as well.&lt;/p&gt;
-</summary><category term="meeting"></category><category term="pandas"></category></entry><entry><title>Tempe Startup Weekend - 2013</title><link href="http://desertpy.com/posts/2013/Jun/14/tempe-startup-weekend-2013/" rel="alternate"></link><updated>2013-06-14T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-06-14:posts/2013/Jun/14/tempe-startup-weekend-2013/</id><summary type="html">&lt;p&gt;It was requested that I forward along an announcement about a Startup Weekend
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 30 Jun 2013 11:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-06-30:posts/2013/Jun/30/june-2013-meeting-followup/</guid><category>meeting</category><category>pandas</category></item><item><title>Tempe Startup Weekend - 2013</title><link>http://desertpy.com/posts/2013/Jun/14/tempe-startup-weekend-2013/</link><description>&lt;p&gt;It was requested that I forward along an announcement about a Startup Weekend
 being held this month in Tempe.&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Announcement&lt;/dt&gt;
@@ -546,7 +507,7 @@ teams, build products and launch startups!&amp;quot;&lt;/p&gt;
 in downtown Tempe, on Mill: &lt;a class="reference external" href="http://formationspace.com/"&gt;http://formationspace.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The flyer below includes a 15% off discount code for DesertPy group members.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://tempe.startupweekend.org/"&gt;&lt;img alt="" src="/static/images/SW_Flyer_PHX_Python.png" /&gt;&lt;/a&gt;
-</summary><category term="tempe"></category><category term="event"></category><category term="startupweekend"></category></entry><entry><title>June 2013 Meeting</title><link href="http://desertpy.com/posts/2013/Jun/07/june-2013-meeting/" rel="alternate"></link><updated>2013-06-07T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-06-07:posts/2013/Jun/07/june-2013-meeting/</id><summary type="html">&lt;p&gt;Time for this month's meeting is approaching quickly, here are the details:&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Fri, 14 Jun 2013 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-06-14:posts/2013/Jun/14/tempe-startup-weekend-2013/</guid><category>tempe</category><category>event</category><category>startupweekend</category></item><item><title>June 2013 Meeting</title><link>http://desertpy.com/posts/2013/Jun/07/june-2013-meeting/</link><description>&lt;p&gt;Time for this month's meeting is approaching quickly, here are the details:&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;June 26th, 2013&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
@@ -563,7 +524,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="pandas"></category></entry><entry><title>May 2013 Drinkup</title><link href="http://desertpy.com/posts/2013/May/13/may-2013-drinkup/" rel="alternate"></link><updated>2013-05-13T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-05-13:posts/2013/May/13/may-2013-drinkup/</id><summary type="html">&lt;p&gt;Let's meet up at Boulders on Broadway on Wednesday, May 22, 2013 at 6:30PM
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Fri, 07 Jun 2013 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-06-07:posts/2013/Jun/07/june-2013-meeting/</guid><category>meeting</category><category>pandas</category></item><item><title>May 2013 Drinkup</title><link>http://desertpy.com/posts/2013/May/13/may-2013-drinkup/</link><description>&lt;p&gt;Let's meet up at Boulders on Broadway on Wednesday, May 22, 2013 at 6:30PM
 for some food and drinks!&lt;/p&gt;
 &lt;iframe width="580" height="480" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
@@ -585,7 +546,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="social"></category><category term="drinkup"></category></entry><entry><title>Old Presentations Added</title><link href="http://desertpy.com/posts/2013/May/05/old-presentations-added/" rel="alternate"></link><updated>2013-05-05T18:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-05-05:posts/2013/May/05/old-presentations-added/</id><summary type="html">&lt;p&gt;We now have the old presentations uploaded to the &lt;a class="reference external" href="http://desertpy.com/pages/presentations.html"&gt;DesertPy Presentations Page&lt;/a&gt; on the website.  This includes
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Mon, 13 May 2013 18:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-05-13:posts/2013/May/13/may-2013-drinkup/</guid><category>social</category><category>drinkup</category></item><item><title>Old Presentations Added</title><link>http://desertpy.com/posts/2013/May/05/old-presentations-added/</link><description>&lt;p&gt;We now have the old presentations uploaded to the &lt;a class="reference external" href="http://desertpy.com/pages/presentations.html"&gt;DesertPy Presentations Page&lt;/a&gt; on the website.  This includes
 Trevor's Mongo presentation, Jerry's RaspberryPi presentation, and my
 virtualenv and fabric presentations.  These presentations, and the source, for
 some of them are also available on github:
@@ -596,7 +557,7 @@ all of our website and presentation materials under a permissive open source
 license.  I am partial to the three clause MIT/BSD style licenses and that's
 the route we'll probably follow.  We will also need to make sure we get
 contributors to agree as well.  We will formalize this down the road.&lt;/p&gt;
-</summary><category term="website"></category><category term="presentations"></category></entry><entry><title>DesertPy - The Phoenix Area Python User Community</title><link href="http://desertpy.com/posts/2013/May/04/desertpy-python-community/" rel="alternate"></link><updated>2013-05-04T10:20:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2013-05-04:posts/2013/May/04/desertpy-python-community/</id><summary type="html">&lt;p&gt;Welcome to the DesertPy website.  This is the online home of Phoenix area
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sun, 05 May 2013 18:47:00 -0700</pubDate><guid>tag:desertpy.com,2013-05-05:posts/2013/May/05/old-presentations-added/</guid><category>website</category><category>presentations</category></item><item><title>DesertPy - The Phoenix Area Python User Community</title><link>http://desertpy.com/posts/2013/May/04/desertpy-python-community/</link><description>&lt;p&gt;Welcome to the DesertPy website.  This is the online home of Phoenix area
 Python users.  In an effort to bring together Phoenix area Pythonistas the
 group maintains several online resources including the &lt;a class="reference external" href="http://www.meetup.com/Phoenix-Python-Meetup-Group/"&gt;DesertPy Meetup Group&lt;/a&gt;, &lt;a class="reference external" href="https://twitter.com/desertpy"&gt;&amp;#64;desertpy on twitter&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/desertpy"&gt;DesertPy on Github&lt;/a&gt;, the &lt;a class="reference external" href="https://plus.google.com/communities/103511724147602323431"&gt;DesertPy Google+ Community&lt;/a&gt;, and a &lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!forum/desertpy"&gt;Google
 groups mail list&lt;/a&gt;.&lt;/p&gt;
@@ -606,4 +567,4 @@ providing hosting for both the statically generated website and presentations
 using &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you're in Phoenix, or visit Phoenix, and interested in Python, come check us
 out!&lt;/p&gt;
-</summary><category term="misc"></category></entry></feed>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Sat, 04 May 2013 10:20:00 -0700</pubDate><guid>tag:desertpy.com,2013-05-04:posts/2013/May/04/desertpy-python-community/</guid><category>misc</category></item></channel></rss>

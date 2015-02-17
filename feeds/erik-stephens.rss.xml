@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DesertPy</title><link>http://desertpy.com/</link><description></description><atom:link href="http://desertpy.com/feeds/erik-stephens.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 10 Aug 2014 23:10:00 -0700</lastBuildDate><item><title>Thunderstorm Aftermath</title><link>http://desertpy.com/posts/2014/Aug/10/jul-2014-recap/</link><description>&lt;p&gt;This month's meeting format was a series of lightning talks.  We
+restricted the talks to a hard limit of 5 minutes, which was a
+challenge for some of us.  Here is a quick recap with some reference
+links.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;SciPy 2014 Highlights&lt;/p&gt;
+&lt;p&gt;Austin provided some &lt;a class="reference external" href="http://presentations.desertpy.com/thunderstorm-2014/SciPy_2014.slides.html"&gt;highlights from this year's SciPy conference&lt;/a&gt;.
+Lots of exciting developments.  Five minutes didn't do it justice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Nsq and Python&lt;/p&gt;
+&lt;p&gt;Trevor demoed &lt;a class="reference external" href="https://github.com/wtolson/gnsq/"&gt;gnsq&lt;/a&gt;, a gevent
+based python client for the NSQ distributed messaging platform,
+which was highlighted in this week's &lt;a class="reference external" href="http://pycoders.com/"&gt;PyCoder's Weekly&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;IPython as a command shell&lt;/p&gt;
+&lt;p&gt;Ian combined two of my favorite things: &lt;a class="reference external" href="https://github.com/ianpreston/oh-my-py/"&gt;IPython and command shells&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Exploring Python's Method Resolution Order (MRO)&lt;/p&gt;
+&lt;p&gt;Jason took us from the basics of the MRO to some more complicated
+examples.  He was about to divulge how to hack the MRO at run-time
+before the 5-minute horn stopped him short.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Python logging for web applications&lt;/p&gt;
+&lt;p&gt;I tried my best to walk through my &lt;a class="reference external" href="http://nbviewer.ipython.org/gist/erik-stephens/6918b6c25591d2b4d93f/"&gt;IPython Notebook&lt;/a&gt;
+demonstrating how you can use Python's logging module and
+ElasticSearch &amp;amp; Kibana to instrument &amp;amp; analyze your web
+applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Jerry walked us through his MongoDB driven web application that tracks the
+movies and books he and his wife own.  This served as a good example of using
+MongoDB with Python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Lastly, Jason accepted the challenge of giving an unfinished presentation on
+&lt;a class="reference external" href="http://presentations.desertpy.com/thunderstorm-2014/Decorators.slides.html#/"&gt;Python Deocrators&lt;/a&gt;.
+This presentation was started by Austin and Jason had never seen it before
+and did an exceptional job talking about it sight unseen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;NOTE&lt;/em&gt; Austin added the last two bullet point's here, for completion sake.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Stephens</dc:creator><pubDate>Sun, 10 Aug 2014 23:10:00 -0700</pubDate><guid>tag:desertpy.com,2014-08-10:posts/2014/Aug/10/jul-2014-recap/</guid><category>meeting</category></item></channel></rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/all.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2015-02-17T06:47:00-07:00</updated><entry><title>February 2015 Meeting - Battle of the Queues</title><link href="http://desertpy.com/posts/2015/Feb/17/feb-2015-meeting/" rel="alternate"></link><updated>2015-02-17T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2015-02-17:posts/2015/Feb/17/feb-2015-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DesertPy</title><link href="http://desertpy.com/" rel="alternate"></link><link href="http://desertpy.com/feeds/austin-godber.atom.xml" rel="self"></link><id>http://desertpy.com/</id><updated>2015-02-17T06:47:00-07:00</updated><entry><title>February 2015 Meeting - Battle of the Queues</title><link href="http://desertpy.com/posts/2015/Feb/17/feb-2015-meeting/" rel="alternate"></link><updated>2015-02-17T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2015-02-17:posts/2015/Feb/17/feb-2015-meeting/</id><summary type="html">&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;February 25th, 2015&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
@@ -143,46 +143,7 @@ request.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="meeting"></category><category term="numpy"></category></entry><entry><title>Thunderstorm Aftermath</title><link href="http://desertpy.com/posts/2014/Aug/10/jul-2014-recap/" rel="alternate"></link><updated>2014-08-10T23:10:00-07:00</updated><author><name>Erik Stephens</name></author><id>tag:desertpy.com,2014-08-10:posts/2014/Aug/10/jul-2014-recap/</id><summary type="html">&lt;p&gt;This month's meeting format was a series of lightning talks.  We
-restricted the talks to a hard limit of 5 minutes, which was a
-challenge for some of us.  Here is a quick recap with some reference
-links.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;SciPy 2014 Highlights&lt;/p&gt;
-&lt;p&gt;Austin provided some &lt;a class="reference external" href="http://presentations.desertpy.com/thunderstorm-2014/SciPy_2014.slides.html"&gt;highlights from this year's SciPy conference&lt;/a&gt;.
-Lots of exciting developments.  Five minutes didn't do it justice.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Nsq and Python&lt;/p&gt;
-&lt;p&gt;Trevor demoed &lt;a class="reference external" href="https://github.com/wtolson/gnsq/"&gt;gnsq&lt;/a&gt;, a gevent
-based python client for the NSQ distributed messaging platform,
-which was highlighted in this week's &lt;a class="reference external" href="http://pycoders.com/"&gt;PyCoder's Weekly&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;IPython as a command shell&lt;/p&gt;
-&lt;p&gt;Ian combined two of my favorite things: &lt;a class="reference external" href="https://github.com/ianpreston/oh-my-py/"&gt;IPython and command shells&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Exploring Python's Method Resolution Order (MRO)&lt;/p&gt;
-&lt;p&gt;Jason took us from the basics of the MRO to some more complicated
-examples.  He was about to divulge how to hack the MRO at run-time
-before the 5-minute horn stopped him short.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Python logging for web applications&lt;/p&gt;
-&lt;p&gt;I tried my best to walk through my &lt;a class="reference external" href="http://nbviewer.ipython.org/gist/erik-stephens/6918b6c25591d2b4d93f/"&gt;IPython Notebook&lt;/a&gt;
-demonstrating how you can use Python's logging module and
-ElasticSearch &amp;amp; Kibana to instrument &amp;amp; analyze your web
-applications.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Jerry walked us through his MongoDB driven web application that tracks the
-movies and books he and his wife own.  This served as a good example of using
-MongoDB with Python.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p class="first"&gt;Lastly, Jason accepted the challenge of giving an unfinished presentation on
-&lt;a class="reference external" href="http://presentations.desertpy.com/thunderstorm-2014/Decorators.slides.html#/"&gt;Python Deocrators&lt;/a&gt;.
-This presentation was started by Austin and Jason had never seen it before
-and did an exceptional job talking about it sight unseen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;NOTE&lt;/em&gt; Austin added the last two bullet point's here, for completion sake.&lt;/p&gt;
-</summary><category term="meeting"></category></entry><entry><title>DesertPy Thunderstorm - July 2014 Meeting</title><link href="http://desertpy.com/posts/2014/Jul/13/july-2014-meeting/" rel="alternate"></link><updated>2014-07-13T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-07-13:posts/2014/Jul/13/july-2014-meeting/</id><summary type="html">&lt;p&gt;Monsoon season is upon us so join DesertPy this month for a Thunderstorm!  What
+</summary><category term="meeting"></category><category term="numpy"></category></entry><entry><title>DesertPy Thunderstorm - July 2014 Meeting</title><link href="http://desertpy.com/posts/2014/Jul/13/july-2014-meeting/" rel="alternate"></link><updated>2014-07-13T06:47:00-07:00</updated><author><name>Austin Godber</name></author><id>tag:desertpy.com,2014-07-13:posts/2014/Jul/13/july-2014-meeting/</id><summary type="html">&lt;p&gt;Monsoon season is upon us so join DesertPy this month for a Thunderstorm!  What
 is a Thunderstorm you ask?  It's a meeting consisting only of lightning
 talks!&lt;/p&gt;
 &lt;dl class="docutils"&gt;
