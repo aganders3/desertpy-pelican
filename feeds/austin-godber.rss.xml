@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DesertPy</title><link>http://desertpy.com/</link><description></description><atom:link href="http://desertpy.com/feeds/austin-godber.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 18 Feb 2015 06:47:00 -0700</lastBuildDate><item><title>March 2015 Meeting - Python Internals and Freezing</title><link>http://desertpy.com/posts/2015/Feb/18/mar-2015-meeting/</link><description>&lt;dl class="docutils"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DesertPy</title><link>http://desertpy.com/</link><description></description><atom:link href="http://desertpy.com/feeds/austin-godber.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 18 Mar 2015 06:47:00 -0700</lastBuildDate><item><title>March 2015 Meeting - Python Internals and Freezing</title><link>http://desertpy.com/posts/2015/Mar/18/mar-2015-meeting/</link><description>&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;March 25th, 2015&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
@@ -21,7 +21,7 @@ request:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Austin Godber (&lt;a class="reference external" href="http://twitter.com/godber"&gt;&amp;#64;godber&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Wed, 18 Feb 2015 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2015-02-18:posts/2015/Feb/18/mar-2015-meeting/</guid><category>meeting</category></item><item><title>February 2015 Meeting - Battle of the Queues</title><link>http://desertpy.com/posts/2015/Feb/17/feb-2015-meeting/</link><description>&lt;dl class="docutils"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Austin Godber</dc:creator><pubDate>Wed, 18 Mar 2015 06:47:00 -0700</pubDate><guid>tag:desertpy.com,2015-03-18:posts/2015/Mar/18/mar-2015-meeting/</guid><category>meeting</category></item><item><title>February 2015 Meeting - Battle of the Queues</title><link>http://desertpy.com/posts/2015/Feb/17/feb-2015-meeting/</link><description>&lt;dl class="docutils"&gt;
 &lt;dt&gt;When&lt;/dt&gt;
 &lt;dd&gt;Wednesday &lt;strong&gt;February 25th, 2015&lt;/strong&gt; at &lt;strong&gt;6:30PM&lt;/strong&gt;&lt;/dd&gt;
 &lt;dt&gt;Where&lt;/dt&gt;
