@@ -27,14 +27,14 @@
     {% for title, link in MENUITEMS %}
         <li><a href="{{ link }}">{{ title }}</a></li>
     {% endfor %}
+    {% for cat, null in categories %}
+        <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat|capitalize }}</a></li>
+    {% endfor %}
     {% if DISPLAY_PAGES_ON_MENU %}
     {% for page in PAGES if not page.title in EXCLUDED_PAGES %}
         <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
     {% endif %}
-    {% for cat, null in categories %}
-        <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat|capitalize }}</a></li>
-    {% endfor %}
     </ul></nav>
   </header><!-- /#banner -->
   {% block content %}

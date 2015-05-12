@@ -5,7 +5,7 @@ Presentations
 :slug: presentations
 :author: Austin Godber
 :summary: Presentations
-
+:order: 01
 
 Some of the presentations given at DesertPy meetings are shared below.
 Supplemental material may be found for some of these presentations in our

@@ -5,6 +5,7 @@ Web Chat
 :slug: chat
 :author: Austin Godber
 :summary: IRC based web chat
+:order: 04
 
 DesertPy has an IRC channel on freenode, #desertpy.  You can connect to that
 and chat with members here.  I don't recommend using your actual IRC password

@@ -5,6 +5,7 @@ About DesertPy
 :slug: about
 :author: Austin Godber
 :summary: About DesertPy
+:order: 03
 
 DesertPy is a group of `Python <https://www.python.org/>`_ developers in the
 Phoenix, Arizona area.
